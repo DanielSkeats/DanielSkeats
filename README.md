@@ -1,4 +1,4 @@
-Hi,
+Hello,
 I can be reached on Twitter @DanielSkeats
 
 <!---
