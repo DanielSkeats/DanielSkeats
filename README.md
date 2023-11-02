@@ -1,6 +1,4 @@
-Hi
-I'm learning R for use in Ecology Statistics, I'm at the beginning of my journey and practicing as often as possible
-Tips on self-teaching R welcome!
+Hi,
 I can be reached on Twitter @DanielSkeats
 
 <!---
